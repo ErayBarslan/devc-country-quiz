@@ -8,23 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
+    <a href="https://devc-country-quiz.netlify.app/">
+      Live
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/eraybarslan/devc-country-quiz/">
       Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/Bu3G2irnaXmfwQ8sZkw8">
-      Challenge
     </a>
   </h3>
 </div>
-
-<!-- TABLE OF CONTENTS -->
-
-# devChallegnes - Contry Quiz solution
 
 ## Table of Contents
 
@@ -37,9 +29,7 @@
 - Solution for the challenge [Country Quiz](https://devchallenges.io/challenges/Bu3G2irnaXmfwQ8sZkw8)
 - Mobile first approach.
 - Animations done with framer motion and some CSS3.
-- Live Site: []()
-- - Solution: [https://github.com/eraybarslan/devc-country-quiz/](https://github.com/eraybarslan/devc-country-quiz/) 
-![desktop_screenshot](/public/images/ss_desktop.png)
+- Screenshot: ![desktop_screenshot](/public/images/ss_desktop.png)
 
 ### Built With
 
